@@ -88,15 +88,6 @@ naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
 
-# Navigation links
-nav:
-  - title: "About"
-    url: /about/
-  - title: "Projects"
-    url: /projects/
-  - title: "Resume"
-    url: /assets/files/Henry_Hollis_CV.pdf
-
 # Social Sharing
 twitter:
   username               :
