@@ -116,8 +116,15 @@ author:
   name             : "Henry Hollis"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computational biologist focused on transcriptomics, and circadian gene regulation."
-  location         : # "Somewhere"
+  location         : "Philadelphia, PA"
   email            : "henryhollis4@gmail.com"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/henryhollis"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/henryhollis/"
 
 
 # Site Footer
