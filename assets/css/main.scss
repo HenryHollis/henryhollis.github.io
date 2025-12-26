@@ -7,3 +7,22 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* Custom Footer Background */
+.page__footer {
+    background-image: url('/assets/images/pixel-bio-bg.jpg');
+    background-position: center;
+    background-size: cover; /* Ensures the image covers the whole area */
+    color: #fff; /* Changes footer text to white so it's readable */
+  }
+  
+  /* Optional: Make links in the footer white so they stand out */
+  .page__footer a {
+    color: #fff;
+    text-decoration: underline;
+  }
+
+  .page__footer, .page__hero--overlay {
+    image-rendering: pixelated; /* For Chromium/modern browsers */
+    image-rendering: crisp-edges; /* For Firefox */
+  }
