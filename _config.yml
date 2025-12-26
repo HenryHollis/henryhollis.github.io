@@ -317,4 +317,7 @@ defaults:
       comments: # true
       share: true
       related: true
+    header:
+      overlay_image: /assets/images/pixel-bio-bg.jpg
+      overlay_filter: 0.5
       
