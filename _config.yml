@@ -128,7 +128,9 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?hl=en&user=EvRwgkgAAAAJ"
-
+    - label: "CV / Resume"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/assets/documents/Resume.pdf"
 
 # Site Footer
 footer:
