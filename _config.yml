@@ -155,6 +155,8 @@ footer:
   #     # url:
   # since: "2013"
 
+footer_scripts:
+  - /assets/js/game-of-life.js
 
 # Reading Files
 include:
